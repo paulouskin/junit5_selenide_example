@@ -1,6 +1,6 @@
 import org.junit.Test;
-import page_objects.GooglePage;
-import page_objects.SearchResultPage;
+import pageobjects.GooglePage;
+import pageobjects.SearchResultPage;
 
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.open;

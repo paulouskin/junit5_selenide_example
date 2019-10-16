@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="junit5_selenide_tests" target="1.8" />
+      <module name="junit5_selenide_tests" target="12" />
     </bytecodeTargetLevel>
   </component>
 </project>
